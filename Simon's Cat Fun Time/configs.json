@@ -1,0 +1,9 @@
+{
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "isDoTasks": false,
+  "amountOfEnergyLimitBoostUpgrade": 1,
+  "amountOfMineBoostUpgrade": 1,
+  "amountOfMultitapBoostUpgrade": 1
+}
