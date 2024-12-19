@@ -14,6 +14,9 @@ To get started with the bot, follow these steps:
 
 0. **Dowload NodeJS to run the bot**
 
+- **Node.js** (Version: `22.11.0`)
+- **npm** (Version: `10.9.0`)
+
 -> [Link](https://t.me/KeoAirDropFreeNe/257/1462)
 
 1. **Install Dependencies and Modules:**
@@ -32,14 +35,17 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "isDoTasks": false, // set to false because this game has bug and generate many tasks, set true if you want to do tasks then do tap
-  "amountOfEnergyLimitBoostUpgrade": 1,
-  "amountOfMineBoostUpgrade": 1,
-  "amountOfMultitapBoostUpgrade": 1,
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "isDoTasks": false,
+  "amountOfEnergyLimitBoostUpgrade": 10,
+  "amountOfMineBoostUpgrade": 10,
+  "amountOfMultitapBoostUpgrade": 10,
+  "referralCode": "6713068747",
+  "tappingTime":[60,120]
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
