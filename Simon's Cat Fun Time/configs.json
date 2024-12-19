@@ -3,7 +3,9 @@
   "countdown": 300,
   "country_time": "en-US",
   "isDoTasks": false,
-  "amountOfEnergyLimitBoostUpgrade": 1,
-  "amountOfMineBoostUpgrade": 1,
-  "amountOfMultitapBoostUpgrade": 1
+  "amountOfEnergyLimitBoostUpgrade": 10,
+  "amountOfMineBoostUpgrade": 10,
+  "amountOfMultitapBoostUpgrade": 10,
+  "referralCode": "6713068747",
+  "tappingTime":[60,120]
 }
