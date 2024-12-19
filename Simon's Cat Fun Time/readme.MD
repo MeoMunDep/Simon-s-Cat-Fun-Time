@@ -43,8 +43,9 @@ To get started with the bot, follow these steps:
   "amountOfMineBoostUpgrade": 10,
   "amountOfMultitapBoostUpgrade": 10,
   "referralCode": "6713068747",
-  "tappingTime":[60,120]
+  "tappingTime": [60, 120]
 }
+
 
 ```
 
